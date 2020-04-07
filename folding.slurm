@@ -6,4 +6,4 @@
 #SBATCH --mail-type=ALL
 
 
-./FAHClient
+FAHClient --web-enable=false --gpu=false --smp=true --cpus=12 --team=259515 --user=aa3025
