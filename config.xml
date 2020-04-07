@@ -1,0 +1,11 @@
+<config>
+  <!-- Folding Slot Configuration -->
+  <gpu v='false'/>
+
+  <!-- User Information -->
+  <team v='259515'/>
+  <user v='aa3025'/>
+
+  <!-- Folding Slots -->
+  <slot id='0' type='CPU'/>
+</config>
